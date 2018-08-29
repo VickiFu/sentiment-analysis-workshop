@@ -1,5 +1,5 @@
 # sentiment-analysis-workshop
-Deep Learning for Language Workshop prepared for the AI For Social Good Summer Lab, 2018
+Deep Learning for Language Workshop 
 
 Contains a notebook and code for developing a sentiment analysis model on a subset of [IMDB movie review data](https://www.cs.cornell.edu/people/pabo/movie%2Dreview%2Ddata/review_polarity.tar.gz) documented [here](https://www.cs.cornell.edu/people/pabo/movie%2Dreview%2Ddata/)
 
